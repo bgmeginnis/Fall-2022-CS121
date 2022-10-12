@@ -12,11 +12,11 @@
 
 #### Group Members
 
-| Name                          | Email       | Github Username |
-| ----------------------------- | ----------- | --------------- |
-| [First Name , Last Name](Link to github page) | EMAIL address  | username    |
-| [First Name , Last Name](Link to github page) | EMAIL address   | username     |
-| [First Name , Last Name](Link to github page) | EMAIL address  | username   |
+| Name                                          | Email | Github Username |
+|-----------------------------------------------| -- |-----------------|
+| [Beethoven, Meginnis](https://github.com/bgmeginnis)    | bgmeginnis@bsu.edu  | bgmeginnis      |
+| [First Name , Last Name](Link to github page) | EMAIL address | username        |
+| [First Name , Last Name](Link to github page) | EMAIL address | username        |
 
 #### Project Files
 
