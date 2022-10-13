@@ -1,6 +1,7 @@
-## Mini Bank Project
+## Mini Bank Project  Due 10/19/22 @ 11:59pm 
 #### CS121.1 Fall 2022
-### Identify and describe what is happening in the miniBank code for each below (commenting in each file of the code). Then I would like you to add the structure of the code below with the relationships of each class to each other. (I will explain in class to clarify). Each group member will place what file they looked at and commented on and update if they have started, work in progress or if they have finished. 
+### - Identify and describe what is happening in the miniBank code for each below (commenting in each file of the code). 
+### - Then I would like you to add the structure of the code below with the relationships of each class to each other. (I will explain in class to clarify). ### - Each group member will place what file they looked at and commented on and update if they have started, work in progress or if they have finished. 
 -instances of variables
 - keywords
 - creating objects
